@@ -1,0 +1,9 @@
+
+#this is a gitignore file
+#it is used to ignore files that we do not want to push to the repository
+
+package-lock.json
+node_modules
+```
+
+
